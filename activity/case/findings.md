@@ -4,7 +4,13 @@ Write your findings here as you recover them. One finding first, then both.
 
 ## Finding 1 — from the repository history
 
-<!-- Replace this line with what you recovered, and where you recovered it from. -->
+**Filed:** 9 October, Heliograph launch records
+**Filed by:** Records desk
+
+> Final briefing sign-off: signed at 09:20 by Deputy Archivist N. Perera.
+
+The morning briefing was signed off before launch and the signed copy was handed to the
+courier desk for onward delivery.
 
 ## Finding 2 — from the courier manifest
 
